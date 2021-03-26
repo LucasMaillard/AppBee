@@ -249,6 +249,9 @@
     "symfony/yaml": {
         "version": "v5.2.5"
     },
+    "twbs/bootstrap": {
+        "version": "v4.6.0"
+    },
     "twig/twig": {
         "version": "v3.3.0"
     }
